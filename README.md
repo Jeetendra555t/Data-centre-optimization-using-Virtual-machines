@@ -69,6 +69,5 @@ A rack is flagged for replacement if it receives 3 or more critical alerts withi
 4. Push to the branch
 5. Create a new Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
+## Serverconsolidation
+Its a simulation of how virtual macines across servers are assigned where multiple cloudlets are redistributed to share workload among servers to let other servers go idle and save energy and resources.
